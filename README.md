@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do MatheusSimeonato 😁
+## Bem-vindo(a) ao perfil do MatheusSimeonato 
 
  <div>
    <a href="https://github.com/MatheusSimeonato">
